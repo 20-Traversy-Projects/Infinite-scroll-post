@@ -83,7 +83,7 @@ h1{
 }
 
 .loader .show{
-    /* opacity: 1; */
+    opacity: 1;
 }
 
 .circle{
